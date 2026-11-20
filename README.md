@@ -1,6 +1,6 @@
 # Archmage Idle — Live Build
 
-**▶ Play now: <https://danielzaiser91.github.io/archmage-idle-live/>**
+**▶ Play now: <https://dernamenlosedaniel.github.io/archmage-idle-live/>**
 
 Medieval-fantasy anime-isekai incremental game: a mage's orb, four elements that feed
 each other, elemental spirits with type matchups, and a time layer that resets
@@ -22,7 +22,7 @@ Incremental-Game im Mittelalter-Fantasy-Anime-Isekai-Setting: der Orb eines Magi
 vier Elemente, die sich gegenseitig nähren, Elementargeister mit Typ-Schwächen und eine
 Zeit-Ebene, die alles für etwas Dauerhaftes zurücksetzt.
 
-**▶ Direkt spielen: <https://danielzaiser91.github.io/archmage-idle-live/>**
+**▶ Direkt spielen: <https://dernamenlosedaniel.github.io/archmage-idle-live/>**
 
 Dieses Repository enthält **nur den gebauten Live-Stand** und wird bei jedem Release
 automatisch aus dem privaten Quell-Repo veröffentlicht (Force-Push — hier liegt immer
